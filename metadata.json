@@ -1,0 +1,6 @@
+{
+  "name": "Past Continuous – Puzzle Challenge",
+  "description": "Interactive multiplayer educational puzzle challenge for evaluating English learners on the Past Continuous Tense with real-time room synchronization, 10 levels, and live leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
